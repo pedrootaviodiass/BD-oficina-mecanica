@@ -41,5 +41,8 @@ Acesse o arquivo editável [aqui](docs/oficina-mecanica.mwb).
 - **Modelagem:** MySql Workbench
 - **Documentação:** Markdown
 ---
+## 💥 Certificado
+![Certificado](docs/certificado.png)
+---
 Feito por **[Pedro Otávio](https://github.com/pedrootaviodiass)**
 
