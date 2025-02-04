@@ -22,7 +22,7 @@ Este sistema foi desenvolvido para **automatizar e otimizar** o gerenciamento de
 ---
 
 ## 🔍 Diagrama EER  
-![Diagrama Entidade-Relacionamento Estendido](.png)  
+![Diagrama Entidade-Relacionamento Estendido](docs/oficina-mecanica.png)  
 
 ### **Entidades e Relacionamentos**  
 - **Cliente** ➔ **Veículo** (`1:N`): Um cliente pode ter múltiplos veículos.  
@@ -30,12 +30,13 @@ Este sistema foi desenvolvido para **automatizar e otimizar** o gerenciamento de
 - **OS** ➔ **Equipe** (`1:1`): Uma equipe é responsável por executar a OS.  
 - **Equipe** ↔ **Mecânico** (`N:N`): Mecânicos podem atuar em múltiplas equipes.  
 
-*Diagrama criado com [MySql Workbench](https://www.mysql.com/products/workbench/). [Acesse o arquivo editável aqui](docs/diagrama_eer.drawio).*  
+Diagrama criado com
+[MySql Workbench](https://www.mysql.com/products/workbench/).
+Acesse o arquivo editável [aqui](docs/oficina-mecanica.mwb).
 
 ---
 
 ## 💻 Tecnologias Utilizadas  
-- **Banco de Dados:** MySQL  
 - **Versionamento:** Git + GitHub  
 - **Modelagem:** MySql Workbench
 - **Documentação:** Markdown  
