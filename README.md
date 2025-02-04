@@ -39,4 +39,7 @@ Acesse o arquivo editável [aqui](docs/oficina-mecanica.mwb).
 ## 💻 Tecnologias Utilizadas  
 - **Versionamento:** Git + GitHub  
 - **Modelagem:** MySql Workbench
-- **Documentação:** Markdown  
+- **Documentação:** Markdown
+---
+Feito por **[Pedro Otávio](https://github.com/pedrootaviodiass)**
+
